@@ -1,7 +1,7 @@
 # Everbloom Florist
 
 ### Concept
-Everbloom is an online florist shop that offers a variety of fresh flowers and arrangements for every occasion. With a simple and elegant design, customers can easily browse through different categories and select their preferred flowers, arrangements, and add a gift card message if they choose.
+Everbloom is an online florist shop that offers a variety of fresh flowers and arrangements for every occasion. With a simple and elegant design, customers can easily browse through different bouquets and select their preferred flowers, as well as add a gift card message if they choose.
 
 ### CRUD Concept
 - Create: Add to cart
