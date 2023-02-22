@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'everbloominventory.apps.EverbloominventoryConfig',
+    'everbloomcart.apps.EverbloomcartConfig',
     'rest_framework',
     'corsheaders'
 ]
