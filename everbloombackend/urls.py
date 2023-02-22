@@ -1,11 +1,11 @@
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from everbloominventory.views import InventoryViewSet
+from everbloomcart.views import CartViewSet
 
 
 router = routers.DefaultRouter()
-router.register(r'everbloominventory', InventoryViewSet) 
+router.register(r'everbloomcart', CartViewSet)
 
 
 urlpatterns = [
